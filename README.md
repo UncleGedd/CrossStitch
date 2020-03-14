@@ -1,2 +1,0 @@
-# CrossStitch
-Created with CodeSandbox
